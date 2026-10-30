@@ -1,12 +1,12 @@
 # E-Commerce Acquisition, Cohort Retention & LTV Optimization Dashboard
 
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Interactive_Dashboard-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/)
+[![Tableau Public]([https://img.shields.io/badge/Tableau_Public-View_Interactive_Dashboard-E97627?style=for-the-badge&logo=tableau](https://public.tableau.com/app/profile/benjamin.rierson/viz/E-CommerceCustomerAnalyticsCohortRetentionFinancialScenarioModeling/Executive_ECommerce_LTV_Dashboard))](https://public.tableau.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ## Executive Summary
 This end-to-end data analytics project evaluates customer acquisition efficiency, subscriber cohort retention, and customer lifetime value (LTV) for an e-commerce platform. Built using **Tableau Desktop** and a relational dataset (`customers.csv`, `orders.csv`, `subscriptions.csv`), this interactive dashboard bridges descriptive historical analytics with proactive financial scenario modeling.
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview]("C:\Users\benri\OneDrive\Pictures\Screenshots\Ecommercefinancialanalysis.png")
 
 ---
 
