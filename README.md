@@ -1,6 +1,6 @@
 # E-Commerce Acquisition, Cohort Retention & LTV Optimization Dashboard
 
-[![Tableau Public]([https://img.shields.io/badge/Tableau_Public-View_Interactive_Dashboard-E97627?style=for-the-badge&logo=tableau](https://public.tableau.com/app/profile/benjamin.rierson/viz/E-CommerceCustomerAnalyticsCohortRetentionFinancialScenarioModeling/Executive_ECommerce_LTV_Dashboard))](https://public.tableau.com/)
+[![Tableau Public](https://public.tableau.com/app/profile/benjamin.rierson/viz/E-CommerceCustomerAnalyticsCohortRetentionFinancialScenarioModeling/Executive_ECommerce_LTV_Dashboard))](https://public.tableau.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ## Executive Summary
